@@ -1,7 +1,7 @@
 ### <center> Hello World!, I'm Zohaib Khalid </center>
 
 ## About Me
-* I’m pursuing Masters in Python Machine Learning
+* I’m pursuing Masters in Flutter (App Development)
 * I love to work on new languages and platforms
 * I love programming and Web Automation
 * One weird fact: None
